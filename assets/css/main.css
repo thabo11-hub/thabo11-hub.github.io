@@ -267,6 +267,19 @@ a.back-to-top {
   text-decoration: none;
 }
 
+.myLink{
+  color:#00b4d9;
+}
+
+.myLink:hover{
+  color:#b3b7b8;
+}
+
+.imggif {
+  display: flex;
+  justify-content: center;
+}
+
 a.back-to-top i {
   display: block;
   font-size: 22px;

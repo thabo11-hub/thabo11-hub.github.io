@@ -8,6 +8,19 @@
   }
 }
 
+
+@media screen and (max-width: 768px) {
+  .skills{
+      margin-left:10px;
+      display:inline;
+      position:relative;
+  }
+  
+  a{
+      margin-bottom: 1rem;
+  }
+}
+
 /* tablets */
 @media (max-width: 991px) {
   .section-title {

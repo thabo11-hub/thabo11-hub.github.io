@@ -98,8 +98,34 @@ ul li, ol li {
   padding-bottom: 36px;
 }
 
+
+.section-skills{
+  display:flex;
+  justify-content:center;
+}
+.skills{
+  position:relative;
+  display:flex;
+  justify-content:center;
+  margin: 27px 4px 41px 20px;
+  align-items:center;
+
+}
+
+.loader-container{
+  display: flex;
+  justify-content:center;
+}
+
+.loader {
+font-size: 1rem;
+height: 4em;
+width: 4em;
+  
+}
+
 .section-title {
-  color: #252525;
+  color: #72727291;
   font-size: 38px;
   text-align: center;
   letter-spacing: 1px;

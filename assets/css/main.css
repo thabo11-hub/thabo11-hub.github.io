@@ -1184,7 +1184,7 @@ transition: 0.5s;
 }
 .dark-theme {
 background: #535353;
-color: rgb(22, 22, 22);
+color: rgb(130, 193, 209);
 transition: 0.5s;
 }
 
@@ -1210,6 +1210,7 @@ transition: 0.5s;
   
   /* The slider */
   .slider {
+  display: inline-block;
    position: absolute;
    cursor: pointer;
    top: 0;

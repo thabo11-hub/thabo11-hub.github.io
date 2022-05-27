@@ -1196,7 +1196,6 @@ transition: 0.5s;
    display: inline-block;
    width: 3.5em;
    height: 2em;
-
    text-align: center;
    color: #333;
   }
@@ -1210,7 +1209,6 @@ transition: 0.5s;
   
   /* The slider */
   .slider {
-  display: inline-block;
    position: absolute;
    cursor: pointer;
    top: 0;
@@ -1231,7 +1229,6 @@ transition: 0.5s;
    left: 0.3em;
    bottom: 0.3em;
    background: linear-gradient(40deg,#ff0080,#ff8c00 70%);
-   ;
    transition: .4s;
   }
   
